@@ -250,7 +250,7 @@ def dbsession(request: FixtureRequest, app) -> Session:
 
     :return: A SQLAlchemy session instance you can use to query database.
     """
-    return create_test_dbsession(request: FixtureRequest, app.initializer.config.registry)
+    return create_test_dbsession(request, app.initializer.config.registry)
 
 
 @pytest.fixture()
