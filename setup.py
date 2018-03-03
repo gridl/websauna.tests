@@ -22,6 +22,7 @@ setup(
     maintainer='Erico Andrei',
     maintainer_email='erico@tokenmarket.net',
     license='MIT',
+    keywords='pyramid pytest websauna',
     description='Test fixtures for Websauna',
     long_description=read('README.rst'),
     packages=find_packages(exclude=['ez_setup']),
