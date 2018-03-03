@@ -15,7 +15,7 @@ def read(fname):
 
 setup(
     name='websauna.tests',
-    version='1.0a8',
+    version='1.0a9.dev0',
     url='https://github.com/websauna/websauna.tests',
     author='Mikko Ohtamaa',
     author_email='mikko@opensourcehacker.com',
