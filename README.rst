@@ -1,3 +1,5 @@
+websauna.tests is the component with test fixtures of Websauna framework.
+
 .. |ci| image:: https://img.shields.io/travis/websauna/websauna.tests/master.svg?style=flat-square
     :target: https://travis-ci.org/websauna/websauna.tests/
 
